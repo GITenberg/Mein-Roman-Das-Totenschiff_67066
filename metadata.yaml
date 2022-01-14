@@ -1,5 +1,8 @@
 _repo: Mein-Roman-Das-Totenschiff_67066
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67066-h/images/cover.jpg
 creator:
   author:
     agent_name: Traven, B.
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/B._Traven
     - https://de.wikipedia.org/wiki/B._Traven
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67066#Mein-Roman-Das-Totenschiff
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67066'
